@@ -7,5 +7,6 @@ public class Main {
     public static void main(String[] args) {
         final Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
         logger.log(Level.INFO, "HELLO LINTING USED HERE");
+        added in test2
     }
 }
